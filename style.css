@@ -1,0 +1,158 @@
+#mainContainer
+{
+    display: flex;
+    flex-direction: column; 
+    height: 500px;
+    width: 250px;
+    margin-left: 20px;
+
+    
+}
+#objective
+{
+    background-color:  rgb(33, 33, 51);
+    color:  rgb(165, 170, 165);
+   
+}
+
+#icon
+{
+    color: rgb(165, 170, 165);
+    margin-top: 60px;
+    padding-top: 40px;
+    margin-left: 10px;
+    border: 0px solid;
+    border-bottom: 4px solid rgb(45, 146, 45);
+   
+    
+
+}
+.value
+{
+    background-color: rgb(33, 33, 51);
+    color: rgb(165, 170, 165); ;
+}
+img
+{
+    border-radius: 50%;
+    border: 3px solid rgb(45, 146, 45);
+    margin-left: 25%;
+    margin-top: 45px;
+    width: 50%;
+
+}
+#content
+{
+    margin-left: 10px;
+}
+#Skill
+{
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+#Inter
+{
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+#volun
+{
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+#container2
+{
+    display: box;
+    background-color: rgb(45, 146, 45); 
+    position: relative;
+    top: -950px;
+    
+
+}
+#container2 > div{
+    margin: 1.5px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#container3
+{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    position: relative;
+    right: -290px;
+    top: -450px;
+    
+}
+#name
+{
+   
+    margin-top: 30px ;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(33, 33, 51); 
+
+}
+#web
+{
+    margin-top: -18px;
+    font-size: 15px;
+    color:rgb(33, 33, 51); 
+}
+.education
+{
+    color: rgb(33, 33, 51); 
+    padding-top: 100px;
+    
+}
+#edu
+{
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+#cui
+{
+    color: rgb(33, 33, 51); 
+}
+#uniDate
+{
+    color: rgb(165, 170, 165);
+    
+}
+#uni
+{
+    color: rgb(165, 170, 165);
+    
+}
+#uniGpa
+{
+    color: rgb(165, 170, 165);
+    
+}
+#WorkEx
+{
+    color: rgb(33, 33, 51); 
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+.work
+{
+    color: rgb(165, 170, 165);
+}
+#upwork
+{
+    color: rgb(33, 33, 51); 
+}
+.Awards
+{
+    color: rgb(33, 33, 51); 
+    border-bottom: 4px solid rgb(45, 146, 45); 
+}
+.greenColor
+{
+    color: rgb(33, 33, 51); 
+}
+ #mainDiv
+{
+    margin-right: 200px;
+    margin-left: 200px;
+     border: solid 4px rgb(33, 33, 51);  
+}  
+   
